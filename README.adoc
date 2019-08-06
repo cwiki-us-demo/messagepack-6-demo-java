@@ -1,0 +1,14 @@
+= MessagePack Java 示例程序
+
+WARNING: 0.6.x 版本的 MessagePack 已经过期被淘汰了。如果你现在开始使用 MessagePack 话，请不要使用这个版本。
+我们再这里保留 0.6.x 版本的内容主要用于参考用途。
+
+image::http://docs.ossez.com/messagepack-docs/images/messagepack-logo.jpg[]
+
+=== MessagePack 相关文档和资料
+ * https://www.cwiki.us/display/Serialization/MessagePack - cwiki.us 的 MessagePack WIKI
+ * http://docs.ossez.com/messagepack-docs/index.html - MessagePack 技术资料
+
+== 数据序列化和反序列化
+* 序列化： 将数据结构或对象转换成二进制串的过程。
+* 反序列化：将在序列化过程中所生成的二进制串转换成数据结构或者对象的过程。
